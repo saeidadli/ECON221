@@ -1,0 +1,3 @@
+Cross sectional data
+Time series data
+Pooled cross sections
